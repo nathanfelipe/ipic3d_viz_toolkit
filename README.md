@@ -159,9 +159,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 If you use this toolkit in a publication, please cite it as:
 
 ```
-Felipe Nathan de Oliveira Lopes, "iPIC3D / ECSIM 3D Visualization and Analysis Toolkit",
-[GitHub repository, 2026](https://github.com/nathanfelipe/ipic3d_viz_toolkit).
-10.5281/zenodo.18467461
+Felipe Nathan de Oliveira Lopes, "iPIC3D / ECSIM 3D Visualization and Analysis Toolkit".
+https://github.com/nathanfelipe/ipic3d_viz_toolkit
+https://doi.org/10.5281/zenodo.18467461
 ```
 
 You may also wish to cite the relevant simulation framework:
