@@ -100,11 +100,9 @@ Refer to the accompanying `.md` documentation in each folder for detailed explan
 
 ---
 
-### Live Flyby Diagnostics
+### Live Flyby Diagnostics (video)
 
-<video controls>
-  <source src="./figures/out.mp4" type="video/mp4">
-</video>
+[![Live flyby demo](figures/live_flyby_preview.png)](https://github.com/nathanfelipe/ipic3d_viz_toolkit/issues/1#issue-3890480476)
 
 ### Kinetic Energy Spectrum (along probe path)
 
