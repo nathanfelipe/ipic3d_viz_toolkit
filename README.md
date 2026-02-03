@@ -164,7 +164,7 @@ https://github.com/nathanfelipe/ipic3d_viz_toolkit
 https://doi.org/10.5281/zenodo.18467461
 ```
 
-You may also wish to cite the relevant simulation framework:
+You may also wish to check the relevant simulation framework:
 
 - Stefano Markidis, Giovanni Lapenta, Rizwan-uddin, *Multi-scale simulations of plasma with iPIC3D*, Mathematics and Computers in Simulation, Volume 80, Issue 7, 2010.
 
