@@ -1,1 +1,3 @@
 live_flyby/frames/*.png
+.DS_Store
+live_flyby/*energy_spectrum.png

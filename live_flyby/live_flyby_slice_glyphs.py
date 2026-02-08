@@ -24,7 +24,7 @@ s_stride = 1
 v_stride = 2
 
 # Probe path (edit to taste)
-p0 = np.array([24.0,  36.0,  2.0])
+p0 = np.array([24.0,  36.0,  2.0]) # y = 36 for crossing x point
 p1 = np.array([1.0, 36.0, 2.0])
 n_samples = 2001
 stop_at_domain_exit = True  # truncate path when probe leaves the data domain (prevents boundary-clamped fake measurements)
@@ -104,7 +104,7 @@ compute_energy_spectra = True
 
 spectrum_box_n = 128            # cube edge length (grid points) for FFT (zero-padded if near boundary)
 use_spectrum_frame_ids = True  # True: use `frame_ids` (sparser, faster). False: use every sample point.
-average_spectrum_over_path = True  # True: average spectra across selected probe positions
+average_spectrum_over_path = False  # True: average spectra across selected probe positions
 
 plot_kinetic_energy_spectrum = True
 plot_magnetic_energy_spectrum = True
